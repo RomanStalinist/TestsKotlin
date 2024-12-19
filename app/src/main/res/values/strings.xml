@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tests</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_question">Следующий вопрос</string>
+    <string name="your_result">"Ваш результат: "</string>
+    <string name="from">/</string>
+    <string name="zero">0</string>
+    <string name="repeat">Повторить</string>
+</resources>
