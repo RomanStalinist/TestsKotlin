@@ -1,4 +1,4 @@
-package ooo.chko.tests
+package ooo.kno.tests
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

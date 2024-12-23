@@ -1,8 +1,9 @@
-package ooo.chko.tests
+package ooo.kno.tests
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
+import ooo.chko.tests.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

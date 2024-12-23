@@ -1,4 +1,4 @@
-package ooo.chko.tests
+package ooo.kno.tests
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -11,6 +11,7 @@ import android.widget.RadioGroup
 import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import ooo.chko.tests.R
 
 class QuestionFragment : Fragment() {
     private var questionIndex = 0

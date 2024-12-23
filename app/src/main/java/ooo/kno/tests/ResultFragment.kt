@@ -1,4 +1,4 @@
-package ooo.chko.tests
+package ooo.kno.tests
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
+import ooo.chko.tests.R
 
 class ResultFragment : Fragment() {
     private var userAnswers: List<Int>? = null

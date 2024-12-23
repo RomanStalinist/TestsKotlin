@@ -1,4 +1,4 @@
-package ooo.chko.tests
+package ooo.kno.tests
 
 import org.junit.Test
 
